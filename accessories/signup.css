@@ -1,0 +1,44 @@
+body{
+    margin:0 ;
+    background-color: white;
+
+}
+
+.signup{
+
+     margin: 100px;
+     text-align: center;
+     border: 2px cornflowerblue;
+     box-shadow: 5px 5px 5px cornflowerblue;
+     background-color: cornflowerblue;
+     padding: 10px;
+}
+
+label{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+input{
+    padding-left: 50px;
+    padding-right:50px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0.5rem;
+    border-radius: 20px;
+    border: none;
+    
+
+}
+
+button{
+    padding-left: 50px;
+    padding-right:50px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0.5rem;
+    border-radius: 20px;
+    border: none;
+}
