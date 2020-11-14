@@ -1,37 +1,25 @@
-body{
+body {}
 
-}
-
-.head{
+.head {
     background-color: rgb(147, 147, 179);
 }
 
-#head_content{
-   
+#head_content {}
 
-}
+#head_content ul {}
 
-#head_content ul{
-
-}
-
-#head_content ul li{
+#head_content ul li {
     display: inline;
     margin: 15px;
-
 }
 
-#head_content ul li a{
+#head_content ul li a {
     text-decoration: none;
     color: white;
-    font-size: 20px;
-
-
+    font-size: 30px;
 }
 
-#head_content ul li a:hover{
-
+#head_content ul li a:hover {
     color: red;
     translate: ;
-
 }
